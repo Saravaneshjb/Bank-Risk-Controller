@@ -1,4 +1,4 @@
-# Singapore Flat Resale Price Prediction - Regression Model
+# Bank Risk Controller - Classification Model
 
 #### Problem Statement:
 #### We have been provided with loan application details of a financial institution.  The dataset contains features which describe about a loan applicant’s personal, professional, properties held, salary, credit liability etc.,There is also a “TARGET” feature which provides information about whether the loan was processed. Now, the goal of this project is to analyze all the features, understand their relationship, then train a machine learning model to understand these relationships and predict the outcome (i.e.) process/reject a loan application. Banks and financial institutions can use the model to assess the risk of potential borrowers defaulting on loans, helping in decision-making for loan approvals. 
